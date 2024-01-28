@@ -1,5 +1,5 @@
-import 'package:flappybird/game/assets.dart';
-import 'package:flappybird/game/flappybird_game.dart';
+import 'package:flappybird/gra/assets.dart';
+import 'package:flappybird/gra/flappybird_game.dart';
 import 'package:flutter/material.dart';
 
 class GameOverScreen extends StatelessWidget {

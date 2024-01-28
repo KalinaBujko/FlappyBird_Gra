@@ -2,7 +2,7 @@ import 'package:flame/flame.dart';
 import 'package:flame/game.dart';
 import 'package:flappybird/ekrany/game_over.dart';
 import 'package:flappybird/ekrany/main_menu.dart';
-import 'package:flappybird/game/flappybird_game.dart';
+import 'package:flappybird/gra/flappybird_game.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

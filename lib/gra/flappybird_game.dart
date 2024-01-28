@@ -1,11 +1,11 @@
 import 'package:flame/events.dart';
 import 'package:flame/game.dart';
 import 'package:flame/components.dart';
-import 'package:flappybird/components/background.dart';
-import 'package:flappybird/components/bird.dart';
-import 'package:flappybird/components/ground.dart';
-import 'package:flappybird/components/pipe_group.dart';
-import 'package:flappybird/game/configuration.dart';
+import 'package:flappybird/komponenty/background.dart';
+import 'package:flappybird/komponenty/bird.dart';
+import 'package:flappybird/komponenty/ground.dart';
+import 'package:flappybird/komponenty/pipe_group.dart';
+import 'package:flappybird/gra/configuration.dart';
 import 'package:flutter/painting.dart';
 
 class FlappyBirdGame extends FlameGame with TapDetector, HasCollisionDetection {

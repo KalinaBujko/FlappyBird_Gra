@@ -2,9 +2,9 @@ import 'package:flame/collisions.dart';
 import 'package:flame/components.dart';
 import 'package:flame/flame.dart';
 import 'package:flame/parallax.dart';
-import 'package:flappybird/game/assets.dart';
-import 'package:flappybird/game/configuration.dart';
-import 'package:flappybird/game/flappybird_game.dart';
+import 'package:flappybird/gra/assets.dart';
+import 'package:flappybird/gra/configuration.dart';
+import 'package:flappybird/gra/flappybird_game.dart';
 
 class Ground extends ParallaxComponent<FlappyBirdGame>
     with HasGameRef<FlappyBirdGame> {

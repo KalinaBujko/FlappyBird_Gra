@@ -1,10 +1,10 @@
 import 'package:flame/collisions.dart';
 import 'package:flame/components.dart';
 import 'package:flame/effects.dart';
-import 'package:flappybird/game/assets.dart';
-import 'package:flappybird/game/bird_movement.dart';
-import 'package:flappybird/game/configuration.dart';
-import 'package:flappybird/game/flappybird_game.dart';
+import 'package:flappybird/gra/assets.dart';
+import 'package:flappybird/gra/bird_movement.dart';
+import 'package:flappybird/gra/configuration.dart';
+import 'package:flappybird/gra/flappybird_game.dart';
 import 'package:flutter/material.dart';
 import 'package:flame_audio/flame_audio.dart';
 

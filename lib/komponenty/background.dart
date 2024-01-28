@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:flame/components.dart';
 import 'package:flame/flame.dart';
-import 'package:flappybird/game/assets.dart';
-import 'package:flappybird/game/flappybird_game.dart';
+import 'package:flappybird/gra/assets.dart';
+import 'package:flappybird/gra/flappybird_game.dart';
 
 class Background extends SpriteComponent with HasGameRef<FlappyBirdGame> {
   Background();
